@@ -1,0 +1,22 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+head {
+  color: DarkGreen;
+}
+
+
+h3 {
+  color: SeaGreen;
+}
+
+p,
+li {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
